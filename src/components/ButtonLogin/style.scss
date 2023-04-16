@@ -1,0 +1,22 @@
+.content-button-login {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  gap: 12px;
+  padding: 12px;
+  border: 1px solid #878787;
+  border-radius: 999px;
+  background-color: var(--color);
+  transition: all 0.1s ease-in-out;
+}
+
+.content-button-login:hover {
+  border: 2px solid black;
+}
+
+.content-button-login h2 {
+  font-size: 19px;
+  line-height: 24px;
+}
+

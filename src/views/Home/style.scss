@@ -1,0 +1,43 @@
+header {
+  padding: 40px;
+  border-bottom: 1px solid rgb(217, 218, 220);
+  text-align: center;
+}
+
+.img-logo {
+  width: 150px;
+}
+
+
+.content-login {
+  max-width: 488px;
+  margin: auto;
+  margin-top: 40px;
+}
+
+.section-buttons-login {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.division-sections {
+  margin: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 12px;
+}
+
+.line {
+  background-color: rgb(217, 218, 220);
+  height: 1px;
+  flex: 1;
+}
+
+.text-lines {
+  line-height: 1px;
+  font-weight: 700;
+  font-size: 16px;
+  text-transform: uppercase;
+}
